@@ -2,11 +2,11 @@
     "districts": [
         {
             "name": "Southeast Kootenay",
-			"value": "005"
+		"district_number": "005"
         },
         {
             "name": "Rocky Mountain",
-			"value": "006"
+		"district_number": "006"
         }
 	],
 	"schools": [
