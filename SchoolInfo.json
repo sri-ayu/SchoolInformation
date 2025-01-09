@@ -2,11 +2,11 @@
     "districts": [
         {
             "name": "Southeast Kootenay",
-		"district_number": "005"
+			"district_number": "005"
         },
         {
             "name": "Rocky Mountain",
-		"district_number": "006"
+			"district_number": "006"
         }
 	],
 	"schools": [
@@ -14,7 +14,7 @@
 			"public_or_independent": "BC Public School",
 			"district_number": "005",
 			"school_number": "00501007",
-			"school_name": "Jaffray Elem-Jr Secondary",
+			"name": "Jaffray Elem-Jr Secondary",
 			"total_grant": "4180",
 			"address": "PO BOX 378",
 			"city": "JAFFRAY",
@@ -25,7 +25,7 @@
 			"public_or_independent": "BC Public School",
 			"district_number": "005",
 			"school_number": "00501007",
-			"school_name": "Isabella Dicken Elementary",
+			"name": "Isabella Dicken Elementary",
 			"total_grant": "11220",
 			"address": "PO BOX 1559",
 			"city": "FERNIE",
@@ -36,7 +36,7 @@
 			"public_or_independent": "BC Public School",
 			"district_number": "005",
 			"school_number": "00502011",
-			"school_name": "Laurie Middle School",
+			"name": "Laurie Middle School",
 			"total_grant": "8260",
 			"address": "1808 2ND ST S",
 			"city": "CRANBROOK",
@@ -47,7 +47,7 @@
 			"public_or_independent": "BC Public School",
 			"district_number": "006",
 			"school_number": "00606000",
-			"school_name": "Continuing Ed SD 06",
+			"name": "Continuing Ed SD 06",
 			"total_grant": "2000",
 			"address": "BOX 430",
 			"city": "INVERMERE",
@@ -58,7 +58,7 @@
 			"public_or_independent": "BC Public School",
 			"district_number": "006",
 			"school_number": "00618007",
-			"school_name": "Nicholson Elementary",
+			"name": "Nicholson Elementary",
 			"total_grant": "2000",
 			"address": "PO BOX 331",
 			"city": "GOLDEN",
@@ -69,7 +69,7 @@
 			"public_or_independent": "BC Public School",
 			"district_number": "006",
 			"school_number": "00604012",
-			"school_name": "J Alfred Laird Elementary",
+			"name": "J Alfred Laird Elementary",
 			"total_grant": "4920",
 			"address": "1202 13TH AVENUE",
 			"city": "INVERMERE",
@@ -80,7 +80,7 @@
 			"public_or_independent": "BC Independent School",
 			"district_number": "",
 			"school_number": "00596109",
-			"school_name": "St Mary's Catholic Independent",
+			"name": "St Mary's Catholic Independent",
 			"total_grant": "2320",
 			"address": "1701 5TH ST S",
 			"city": "CRANBROOK",
@@ -91,7 +91,7 @@
 			"public_or_independent": "BC Independent School",
 			"district_number": "",
 			"school_number": "08597142",
-			"school_name": "Chief & Council Of Gwa'Sala-'Nakwaxda'Xw",
+			"name": "Chief & Council Of Gwa'Sala-'Nakwaxda'Xw",
 			"total_grant": "2140",
 			"address": "PO BOX 1799",
 			"city": "PORT HARDY",
