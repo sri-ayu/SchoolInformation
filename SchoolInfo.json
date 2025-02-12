@@ -7,16 +7,24 @@
         {
             "name": "Rocky Mountain",
 			"district_number": "006"
+        },
+        {
+            "name": "Catholic Independent Schools Of Nelson D",
+			"district_number": ""
+        },
+        {
+            "name": "Chief & Council Of Gwa'Sala-'Nakwaxda'Xw",
+			"district_number": ""
         }
 	],
 	"schools": [
 		{
 			"public_or_independent": "BC Public School",
 			"district_number": "005",
+			"district_name": "Southeast Kootenay",
 			"school_number": "00501007",
 			"name": "Jaffray Elem-Jr Secondary",
 			"total_students": "209",
-			"total_grant": "4180",
 			"address": "PO BOX 378",
 			"city": "JAFFRAY",
 			"province": "BC",
@@ -25,10 +33,10 @@
 		{
 			"public_or_independent": "BC Public School",
 			"district_number": "005",
+			"district_name": "Southeast Kootenay",
 			"school_number": "00501009",
 			"name": "Isabella Dicken Elementary",
 			"total_students": "561",
-			"total_grant": "11220",
 			"address": "PO BOX 1559",
 			"city": "FERNIE",
 			"province": "BC",
@@ -37,10 +45,10 @@
 		{
 			"public_or_independent": "BC Public School",
 			"district_number": "005",
+			"district_name": "Southeast Kootenay",
 			"school_number": "00502011",
 			"name": "Laurie Middle School",
 			"total_students": "413",
-			"total_grant": "8260",
 			"address": "1808 2ND ST S",
 			"city": "CRANBROOK",
 			"province": "BC",
@@ -49,10 +57,10 @@
 		{
 			"public_or_independent": "BC Public School",
 			"district_number": "006",
+			"district_name": "Rocky Mountain",
 			"school_number": "00606000",
 			"name": "Continuing Ed SD 06",
 			"total_students": "10",
-			"total_grant": "200",
 			"address": "BOX 430",
 			"city": "INVERMERE",
 			"province": "BC",
@@ -61,10 +69,10 @@
 		{
 			"public_or_independent": "BC Public School",
 			"district_number": "006",
+			"district_name": "Rocky Mountain",
 			"school_number": "00618007",
 			"name": "Nicholson Elementary",
 			"total_students": "91",
-			"total_grant": "1820",
 			"address": "PO BOX 331",
 			"city": "GOLDEN",
 			"province": "BC",
@@ -73,10 +81,10 @@
 		{
 			"public_or_independent": "BC Public School",
 			"district_number": "006",
+			"district_name": "Rocky Mountain",
 			"school_number": "00604012",
 			"name": "J Alfred Laird Elementary",
 			"total_students": "246",
-			"total_grant": "4920",
 			"address": "1202 13TH AVENUE",
 			"city": "INVERMERE",
 			"province": "BC",
@@ -85,10 +93,10 @@
 		{
 			"public_or_independent": "BC Independent School",
 			"district_number": "",
+			"district_name": "Rocky Mountain",
 			"school_number": "00596109",
-			"name": "St Mary's Catholic Independent",
+			"name": "Catholic Independent Schools Of Nelson D",
 			"total_students": "116",
-			"total_grant": "2320",
 			"address": "1701 5TH ST S",
 			"city": "CRANBROOK",
 			"province": "BC",
@@ -97,10 +105,10 @@
 		{
 			"public_or_independent": "BC Independent School",
 			"district_number": "",
+			"district_name": "Chief & Council Of Gwa'Sala-'Nakwaxda'Xw",
 			"school_number": "08597142",
-			"name": "Chief & Council Of Gwa'Sala-'Nakwaxda'Xw",
+			"name": "Gwa'sala-'Nakwaxda'xw School",
 			"total_students": "107",
-			"total_grant": "2140",
 			"address": "PO BOX 1799",
 			"city": "PORT HARDY",
 			"province": "BC",
